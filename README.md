@@ -1,6 +1,6 @@
 # dotconfig
 
-My config files for my Sway desktop.
+My config files for my desktop.
 
 ***
 
